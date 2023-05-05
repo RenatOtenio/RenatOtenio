@@ -5,12 +5,14 @@ Olá! Eu sou  Rento Otenio
 - 🔭 Ingressando no front-end
 - 🌱 Estudando JavaScript
 
-
-
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatOtenio&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatOtenio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
