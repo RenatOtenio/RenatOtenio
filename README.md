@@ -29,6 +29,8 @@ Projetos realizados
 
 👩🏻‍💻 <a href="https://museu-cidade.web.app" target="_blank">Projeto: Museu_Nacional</a>  
 
+👩🏻‍💻 <a href="https://renatotenio.github.io/pokedex/" target="_blank">Projeto: Pokedex</a>
+
     
 ##
       
