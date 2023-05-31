@@ -19,18 +19,6 @@ Olá! Eu sou  Rento Otenio
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-##
-    
-Projetos realizados
-    
-
-👩🏻‍💻 <a href="https://emailchallengelogin-73a0f.web.app" target="_blank">Projeto: Login_EBAC</a>  
-
-👩🏻‍💻 <a href="https://museu-cidade.web.app" target="_blank">Projeto: Museu_Nacional</a>  
-
-👩🏻‍💻 <a href="https://renatotenio.github.io/pokedex/" target="_blank">Projeto: Pokedex</a>
-
     
 ##
       
