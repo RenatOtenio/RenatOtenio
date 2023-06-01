@@ -1,9 +1,11 @@
 
 
-Olá! Eu sou  Rento Otenio
+ <h1> Olá! Eu sou  Rento Otenio </h1>
 
-- 🔭 Ingressando no front-end
-- 🌱 Estudando JavaScript
+- 📌 Sou de São Paulo, Brasil
+- 💜 Apaixonado por Desenvolvimento Web
+- 📚 Aprendendo sobre Front-end
+
 
 ##
 
@@ -25,7 +27,7 @@ Olá! Eu sou  Rento Otenio
 <div> 
   <a href="https://instagram.com/r.otenio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/renatoclutch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renatootenio@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatOtenio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
