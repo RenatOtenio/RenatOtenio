@@ -4,7 +4,6 @@
 
 - 📌 Sou de São Paulo, Brasil
 - 💜 Apaixonado por programação
-- 📚 Aprendendo sobre Front-end
 
 
 ##
